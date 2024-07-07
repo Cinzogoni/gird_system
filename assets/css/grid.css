@@ -19,11 +19,23 @@
   margin-left: -4px;
   margin-right: -4px;
 }
+.row.no-gutters {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
 .col {
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 4px;
   padding-right: 4px;
+}
+.row.no-gutters .col {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
 }
 .c-0 {
   display: none;
