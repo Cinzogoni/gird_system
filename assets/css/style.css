@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  font-size: 62.5%;
+}
+.container {
+  /* text-align: center; */
+}
+.category {
+  height: 26rem;
+  background-color: green;
+  color: white;
+}
+.course-item {
+  height: 26rem;
+  background-color: orange;
+  color: white;
+}
+ul {
+  list-style: none;
+  font-size: 3.2rem;
+}
+h1 {
+  font-size: 3.2rem;
+  text-align: center;
+  line-height: 24rem;
+}
